@@ -1,5 +1,3 @@
-// Video stopped at 01 : 08 : 00
-
 import './App.css';
 import Header from './Header'
 import TinderCards from './TinderCards'
